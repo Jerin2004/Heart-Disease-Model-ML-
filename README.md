@@ -10,6 +10,7 @@ Usage
 Results
 Contributing
 License
+
 🏥 Introduction
 Cardiovascular diseases are one of the leading causes of mortality worldwide. Early prediction and diagnosis of heart disease can help save lives and reduce treatment costs. This project leverages machine learning classification algorithms to predict the likelihood of heart disease using clinical data.
 
@@ -20,8 +21,10 @@ Cardiovascular diseases are one of the leading causes of mortality worldwide. Ea
 Logistic Regression
 Random Forest
 Support Vector Machine (SVM)
+
 🎯 Hyperparameter Tuning to optimize model performance.
 🚀 Deployment of trained models for real-time predictions.
+
 🛠️ Workflow
 📥 Data Collection and Loading: Import and examine heart disease datasets.
 📈 Data Visualization: Understand patterns and trends through visual analytics.
@@ -29,6 +32,7 @@ Support Vector Machine (SVM)
 🧠 Model Training: Train classification models using preprocessed data.
 📊 Evaluation: Assess the performance of models using metrics like accuracy, precision, recall, and F1-score.
 💾 Model Deployment: Save the best model for deployment.
+
 🖥️ Technologies Used
 Languages: 🐍 Python
 Libraries:
