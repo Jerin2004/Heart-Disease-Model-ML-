@@ -38,7 +38,7 @@ Libraries:
 Tools: 🛠️
 Jupyter Notebook for development.
 🌟 Project Preview
-<div align="center"> <img src="images.jpeg" alt="Heart Disease Prediction" width="500"/> <br> <em>Figure 1: Visualizing the heart disease prediction process</em> </div>
+<div align="center"> <img src="UI.png" alt="Heart Disease Prediction" width="500"/> <br> <em>Figure 1: Visualizing the heart disease prediction process</em> </div>
 🚀 Usage
 Clone the repository:
 
