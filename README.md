@@ -1,5 +1,16 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
+
+
+<div align="center">
+    <img src="UI.png" alt="Heart Disease Prediction" width="500"/>
+    <br>
+    <em>Figure 1: Visualizing the heart disease prediction process</em>
+</div>
+
+---
+
+
 This repository contains a **machine learning project** designed to analyze and predict heart disease based on medical attributes such as chest pain and heart rate. The project involves **exploratory data analysis**, **data preprocessing**, **model training**, **evaluation**, and **deployment**.
 
 ---
@@ -59,15 +70,6 @@ Cardiovascular diseases are one of the leading causes of mortality worldwide. Ea
 
 ---
 
-## 🌟 Project Preview
-
-<div align="center">
-    <img src="UI.png" alt="Heart Disease Prediction" width="500"/>
-    <br>
-    <em>Figure 1: Visualizing the heart disease prediction process</em>
-</div>
-
----
 
 ## 🚀 Usage
 
